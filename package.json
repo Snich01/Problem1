@@ -1,0 +1,10 @@
+{
+  "name": "problem1",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "author": "Snich",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bignumber.js": "^9.0.0"
+  }
+}
